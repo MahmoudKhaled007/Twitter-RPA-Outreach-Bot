@@ -100,7 +100,7 @@ Logs the following for each profile:
 - UiPath Excel, UIAutomation, System & WebAutomation packages  
 - Grook API Access / Installed Extension  
 - Multiple Chrome user profiles pre-configured  
-- Set Shortcut to Activate CTRL+ Y Chrome Extention (Screenshot & Screen Recorder Tool)[https://chromewebstore.google.com/detail/ijejnggjjphlenbhmjhhgcdpehhacaal?utm_source=item-share-cb]
+- Set Shortcut to Activate CTRL+ Y Chrome Extention [Screenshot & Screen Recorder Tool]9https://chromewebstore.google.com/detail/ijejnggjjphlenbhmjhhgcdpehhacaal?utm_source=item-share-cb)
 ---
 
 ## 📅 TODO
