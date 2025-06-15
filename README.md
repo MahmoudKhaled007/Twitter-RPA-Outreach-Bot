@@ -26,24 +26,17 @@ This repository contains a UiPath automation project that performs outreach acti
 
 ---
 
-## 🛠️ Project Structure
-
-
----
-
 ## 📥 Input Files
 
-### 1. `InputProfiles.xlsx`
-- Contains list of target Twitter profile URLs
+### 1. `target_accounts.xlsx`
+- Contains list of target Twitter profile URLs.
 
-### 2. `Config.xlsx`
-- Contains:
-  - Prompts for Grook
-  - Comment/Message templates
-  - Action settings
-  - Bot profile credentials
+### 2. `ChromeProfiles.xlsx`
+- Contains list of chrome profiles to rotate on.
 
----
+### 3. `input_prompts.xlsx`
+- Contains list prompts to use, make it easy to edit.
+
 
 ## 🧠 How It Works
 
@@ -89,7 +82,9 @@ Logs the following for each profile:
 - Profile URL  
 - Commented: Yes/No  
 - Messaged: Yes/No  
-- Chrome Profile Used  
+- Chrome Profile Used
+- Personalized Message
+- Personalized Comment
 - Timestamp  
 - Error (if any)  
 
@@ -104,17 +99,9 @@ Logs the following for each profile:
 
 ---
 
-## 📸 Example Screenshots
-
-(Screenshots will be auto-saved in `/Assets/Screenshots/` folder upon error)
-
----
-
 ## 📅 TODO
 
 - Add Proxy support & rotation  
-- Support additional social platforms  
-- Add AI-based profile scoring  
 
 ---
 
