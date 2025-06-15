@@ -111,6 +111,9 @@ Want to improve the automation or UI? PRs are welcome. Create an issue or pull r
 
 ---
 
+## 📜 License
+This project is licensed under the **Apache 2.0 License**. See [LICENSE](LICENSE) for details.
+
 ## 📧 Contact
 
 For freelance projects or RPA consulting:  
