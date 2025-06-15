@@ -26,6 +26,10 @@ This repository contains a UiPath automation project that performs outreach acti
 
 ---
 
+## 🤖 DEMO
+You can watch a Demo from here [DEMO](https://youtu.be/Aa2esaM9Qb0).
+
+---
 ## 📥 Input Files
 
 ### 1. `target_accounts.xlsx`
@@ -98,8 +102,7 @@ Logs the following for each profile:
 - Multiple Chrome user profiles pre-configured  
 
 ---
-## 🤖 DEMO
-You can watch a Demo from here [DEMO] (https://youtu.be/Aa2esaM9Qb0).
+
 ## 📅 TODO
 
 - Add Proxy support & rotation  
