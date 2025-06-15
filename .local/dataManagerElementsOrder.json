@@ -1,0 +1,190 @@
+{
+  "Workflows": [
+    {
+      "Path": "InitApplications.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_strApplicationsList"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Actions/Action-NavigateClientURL.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_strProfileURL",
+        "out_strUserHandle"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Template.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strWFName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Actions/Action-Orchestrator.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_strDMPrompt",
+        "in_strPostPrompt",
+        "in_dtClientsData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Actions/Action-CheckProfileState.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ReadPrompts.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Actions/Action-DoLikes.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "BoolWhoToFollow&Sequence_13"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Actions/Action-ExplainPost.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Boolcritical&Sequence_21",
+        "counter&Sequence_1",
+        "boolPreCondition&Sequence_5",
+        "BoolGrookOpened&Sequence_15",
+        "BoolGrookOpened2&Sequence_15",
+        "boolPostCondition&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_strUrl",
+        "in_strReplyPrompt",
+        "out_strReplyResult"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": ".local/ActivityTestBench/Bench_0.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "variable1&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Actions/Action-ReplyFirstPost.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolPreCondition&Sequence_5",
+        "counter&Sequence_18",
+        "boolPostCondition&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_strReplyText"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Actions/Action-ProfileSummary.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "out_strDMText",
+        "in_strPromptDM"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Actions/Action-SendDM.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolPreCondition&Sequence_5",
+        "BoolNewMessageExist&Sequence_6",
+        "boolPostCondition&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_strUserHandle",
+        "in_strDMText"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": ".local/ActivityTestBench/Bench_1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ReadClientsData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "test.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Actions/Action - ProfileSwitching.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

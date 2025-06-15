@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="CFCJwysVS0ivY0k2IImKZw" Reference="gjp9WrvUkE2t88mTCgQCLg/4UWLwMnyCU-qws4moRI4rA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Chrome" ContentHash="Po-0oJ4j2Eq7FD2pgJ9-PQ" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAG/SURBVFhHxZZtscIwEEUroRKQUAmVgANwAA5aB+CAOkACEpBQCUjom5uZzWz2bkLKj7zMnBl6Sj66203adV23/TMkWkOiNSRak4rn87nl2vF4tJ2/8n6/v/VNRd/327qu2+fz2eZ5juAaHA4HO0CW2+0WJkd/e09BYhvHMXS8Xq/Rnc/n4F6vF/3fY5qmmskBicD9fg8DDMMQ3bIstDCPy+US/od02nsOJAKSCoDf2pVSgQWj6X5fIBGRVCCX1nmpwKJk0bkFOpBIkFRgYut0KmTyUnQykEhAGFFKNhVwMplc24VWQoKQvOqXCg4LwMSPx4MisgMSLhjcTiIOraLccpDIghfP5hjux9ALJLJgYixAV4C4HWVnIVGklApdrjsgUUSeGE3vknKI/ZAKEll0udmweztnJSSyyFMi5F7YvZ2zAhIu3unmhV12ycL5byFByOQYXHsv7PrAqkwFiQQ8CRpyb+8BCTt2Q3Gyc3oHlgOJiK7x0gEjYT+dTtF55ZqBRGDP0Zr7TvB2TgcScUA0XeslvO8Eb+d0IJGUm71XQlKB90E+ZmXfKIyVCq/catGRs62QChKtIdEaEq0h0ZQ/TO2joFKO2LsAAAAASUVORK5CYII=" Reference="gjp9WrvUkE2t88mTCgQCLg/4UWLwMnyCU-qws4moRI4rA" Selector="&lt;html app='chrome.exe' title='RG | Chris ???? @ DreamHack Dallas (@Entxurage) / X' /&gt;" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="98edfbb14995e581a09d96fe71973901.jpg" xmlns="">0OktP0EyDGUWWhIne3ZvOUg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

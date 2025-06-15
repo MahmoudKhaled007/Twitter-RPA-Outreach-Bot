@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="FPcillAd00SakZlqdZHhXg" Reference="gjp9WrvUkE2t88mTCgQCLg/sp0_yMkt8E2kSU8fG6NB5g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1382, 736" BrowserType="Chrome" ContentHash="dP-ppz2D-0Gk1zuXryRxdg" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAIKSURBVFhHxZa/TgJBEIevMNZ0xOrOaGwwSm8hj8AbwCPwBvAG8AbQaUdpSWGseQNpsKbRes3vwlzm5je7Hpqcm3wJfCw7ezP757Isy8I/Q6JtSLQNiT+Tn52Hl4ursM974fPyLjx3i9LZfkfqYr1eh1gbDof2zwQCSWDNR96LTaIuOp1O2O124XA4hNlsVoHvoCgKO0CNp25BwQVkxfanCYDBYFA+8WQyqdx4PC7dZrOh/hob1GbB9ncnABaLRRmw3+9XbrVa0cQsCGIDa2z/6ASkFACftUuVAmm2QQUsRts/OgEgpZjP5+S8UmBS769v4ev+gYLv89tmi9AipUBg63QpEFyy83h9Uz6tBEZWIsEBiRpI+3a7pVLASSnku51oQ0gQWIhoOCO0wwQQeLlcUkZOgIQLBrdBxKHhrLD/aQiJKFh4dgfA/TL1AokoCIwJ6B0gTq+REyGRJFUKvV1PgEQSeWI0fUrKJfaLUpCIorebTbt3cjaERBR5SqTcS7t3cjaAhMt0Oi0H19vNS7uckk3eHY6QICQ4BtfeS7u+sBqWgkQNPAkaam9/A5J2nIbi5OT0LiwHEhV6j8euXyBpH41GlfO2awQSJXK7/RQcxN4TvJPTgUQ1IJre6ym89wTv5HQgUdtu9rcUUgqsB3mZlXMjMVZdeNutKTpztiVKQaJtSLQNibYh0SrfMS/AtU/Vco8AAAAASUVORK5CYII=" Reference="gjp9WrvUkE2t88mTCgQCLg/sp0_yMkt8E2kSU8fG6NB5g" Selector="&lt;html app='chrome.exe' title='(1) GamerAndy_AV attending DreamHack Dallas 2026 (@AndFiorello) / X' /&gt;" Url="[in_strUrl]" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="952d579819ddc2aec50b8669cd9ef416.jpg" xmlns="">0BVtCdKWUEEGyAGgOOH5l5w</imageRef>
+    </TargetApp>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsVariable="False" Name="in_strUrl" />
+    </scg:List>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

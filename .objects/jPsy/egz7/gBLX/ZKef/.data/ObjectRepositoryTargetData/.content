@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mFIhxD1HGkyodIjZVr42uQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" Accuracy="1" BrowserURL="x.com/CoopStreams" DesignTimeRectangle="812, 620, 45, 45" Guid="3cea0494-ee53-4934-a186-9a96317507d5" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAYAAAA6GuKaAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIySURBVGhD7ZSxSxxBFIfvP7Cx0CKNrY2FlYEETGdhYSqLgEUghEAgRVBS2IggWIhwaS2FVKKNR4p0adIkAQvhctd6gnbXj3wDv+U57G3c3WESYT4YdnZmZ+abN2+24x4hnbDhMZClU5GlU5GlU5GlU5GlU5GlU5GlU5GlH8LFZd+XNkSVvr65dV9Oe+7l6w++vN3ccdv7n9237z98P7Ldo+NwWG2iSSNkZZFDmCebUT/1tkSTRpRSdvR2QzGIIs3xIzRJmM1I+r+JtFIhRMI21+tIM8beAeZjnSjSymELC7Cofa8rrdPRCbIG71Gk2b2NtC6eRSlUR5pN240zNlqkmXjSJRQsxjcxiCKtKIYpInSsVZuqQzRpCevS0aYTQLjsojaltbQkVVdUVZC2eRmDKNIhtJVdxli0lv4XZOlUZOlUNJbu/xmETcloJH3e++qmpmf9E968e1/U6zAej936qw3389fvsKuSRtIhyaUZMPNkrlg0fEeIqFKow9Vo5FZW19xgOPRP9c8vLPo+ZGy73ZDmpx3hRtIswCAGU7dROzjs+sVplwh9kuYJYaR5ZyzwzdPnL/wa1NmYvuXJBmpL24WXni2XSlq4gFXSYZ/tp2h+aJUeEKZF1YShWChNNJUaKkSeb5Ri4uPWp9I1qiguIpPt7O4VaTIp0vA36TDSIlqkGWgns/lYltO0hWK0aQzYOaxYtJw+OT27N1ATa9Gqv4eklVqT/h6coL5F1M7XJD3uAET1HgnbrPKrAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Coop ?? (@CoopStreams) / X' /&gt;" SearchSteps="Image" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="764, 570, 113, 42" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Media' aria-role='tab' tag='A' /&gt;" Guid="517b9e75-eabc-4b00-b8ad-37893248b6d6" SearchSteps="Selector" />
+          <Target DesignTimeRectangle="629, 570, 135, 42" FullSelectorArgument="&lt;webctrl aaname='Highlights' aria-role='tab' tag='A' /&gt;" Guid="caa7237a-b7cf-4c11-8e70-22c46220a433" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9ff78feeb06c4c579a7749fb6e78e1d2.png" xmlns="">0n9xXkoJR2EKMayqcmsVf8A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
