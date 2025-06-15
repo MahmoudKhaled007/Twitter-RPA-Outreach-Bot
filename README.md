@@ -1,4 +1,4 @@
-# 🤖 Twitter RPA Outreach Bot
+# Twitter RPA Outreach Bot
 
 This repository contains a UiPath automation project that performs outreach actions (Likes,Comments, Messages, or Both) on Twitter/X to help freelancers and consultants connect with potential clients. The automation is driven by Grook AI for personalization and is fully configurable via Excel files.
 
