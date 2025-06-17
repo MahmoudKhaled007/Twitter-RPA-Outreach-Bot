@@ -161,7 +161,7 @@
                   <x:Boolean x:Key="IsPinned">False</x:Boolean>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <If Condition="[in_action.ToLower.Equals(&quot;comment&quot;)]" DisplayName="If it is comment only" sap:VirtualizedContainerService.HintSize="470,473" sap2010:WorkflowViewState.IdRef="If_3">
+              <If Condition="[in_action.ToLower.Equals(&quot;comment&quot;) or in_action.ToLower.Equals(&quot;both&quot;)]" DisplayName="If it is comment only" sap:VirtualizedContainerService.HintSize="470,473" sap2010:WorkflowViewState.IdRef="If_3">
                 <If.Then>
                   <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="468,170" sap2010:WorkflowViewState.IdRef="Sequence_13">
                     <sap:WorkflowViewStateService.ViewState>
